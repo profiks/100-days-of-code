@@ -1,0 +1,36 @@
+### Table of contents
+
+- Running Line Navigation
+- CSS + JS Carousel
+- Simple Slide Carousel
+- Scroll Up Plugin
+- Page preloader
+- Off Canvas Navigation
+- Javascript Drum Kit
+- CSS + JS Clock
+- Playing with CSS Variables
+- Flex Image Gallery
+- Ajax Search with Suggestion
+- Drow on HTML5 Canvas
+- Multiple checkbox select
+- Custom HTML5 Video Player
+- Slide on Scroll plugin
+- Simple ToDo App
+- CSS Text Shadow Mouse Move Effect
+- Unreal Webcam Fun
+- JS Speech Recognition
+- Geolocation based Speedometer and Compass
+- Speech Synthesis
+- JS + CSS Sticky Navigation
+- Stripe Follow Along Dropdown
+- Click and Drag to Scroll
+- Video Speed Controller UI
+- Countdown Clock
+- Whack A Mole Game
+- Drag and Drop
+- Writing a Pong game in JS
+- Writing a Tetris game in JS
+- Audio plyer in JS + CSS
+- Calculator
+- Navigation in SPA
+- Face detection in JS
