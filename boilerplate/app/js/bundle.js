@@ -1,2 +1,0 @@
-!function(t){function e(o){if(n[o])return n[o].exports;var r=n[o]={exports:{},id:o,loaded:!1};return t[o].call(r.exports,r,r.exports,e),r.loaded=!0,r.exports}var n={};return e.m=t,e.c=n,e.p="",e(0)}([function(t,e){"use strict";function n(t){return t}window.addEventListener("DOMContentLoaded",n),console.log(1)}]);
-//# sourceMappingURL=bundle.js.map
