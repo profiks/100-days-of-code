@@ -22,6 +22,14 @@
  * Container block
  */
 
+* {
+	pointer-events: none;
+}
+
+.nav * {
+	pointer-events: all;
+}
+
 [class$="__container"] {
     width: 100%;
     max-width: 969px;
@@ -130,7 +138,7 @@
 	background-color: #f9f9f9;
 	margin-bottom: 35px;
 	border-radius: 4px;
-	box-shadow: 0 0 5px rgba(0,0,0,.2), 0 6px 8px rgba(0,0,0,.1), inset 0 0 2px #fff;
+	box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, .2);
 }
 
 .card__image{
@@ -176,7 +184,7 @@
 	margin-bottom: 25px;
 	background-color: #f9f9f9;
 	border-radius: 4px;
-	box-shadow: 0 0 5px rgba(0,0,0,.2), 0 6px 8px rgba(0,0,0,.1), inset 0 0 2px #fff;
+	box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, .2);
 	padding: 20px;
 }
 
@@ -311,7 +319,7 @@
 	border-radius: 4px;
 	border-bottom-left-radius: 0;
 	border-bottom-right-radius: 0;
-	box-shadow: 0 0 5px rgba(0,0,0,.2), 0 6px 8px rgba(0,0,0,.1), inset 0 0 2px #fff;
+	box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, .2);
 	display: flex;
 	justify-content: center;
 	padding-bottom: 5px;
