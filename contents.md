@@ -1,7 +1,7 @@
 ### Table of contents
 
 - Running Line Navigation : day 1 (09.01.2017) http://profiks.github.io/works/days-of-code-1/
-- CSS + JS Carousel
+- CSS + JS Carousel : day 2 (20.01.2017) http://profiks.github.io/works/days-of-code-2/
 - Simple Slide Carousel
 - Scroll Up Plugin
 - Page SVG preloader
